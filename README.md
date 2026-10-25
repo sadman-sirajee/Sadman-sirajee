@@ -1,31 +1,29 @@
-### Hi there 👋, my name is Sadman Sirajee
-#### Future Data Scientist | Passionate about Machine Learning, Analytics & AI
-Hi, I'm Sadman Sirajee, a BSc Data Science student at UIU.  
-I’m passionate about Machine Learning, Data Analytics, and building real-world projects.  
-Currently improving my Python, SQL, and Data Visualization skills.
+# 💫 About Me:
+### 👋 About Me<br><br>- 🎓 Currently pursuing a **BSc in Data Science** at United International University (UIU), Bangladesh.<br>- 📊 Interested in **Data Science, Data Analytics, Machine Learning, and Artificial Intelligence**.<br>- 🐍 Building my skills in **Python, SQL, Statistics, Data Analysis, and Data Visualization**.<br>- 💻 Working on academic assignments and hands-on projects to strengthen my problem-solving and analytical skills.<br>- 🌱 Continuously learning new technologies and developing practical, real-world projects.<br>- 🎯 Aspiring to become a **Data Scientist** and build a career in data-driven problem-solving.<br>- 🤝 Open to collaborating on data science projects and learning from the developer community.<br><br>
 
 
-Skills: Python / Pandas/ NumPy/ Matplotlib/ Seaborn/ Power BI/Scikit-learn/ Regression/ Classification/ Clustering/SQL/ MySQL
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadmansirajee@gmail.com) 
 
-- 🔭 I’m currently working on this page. 
-- 📫 How to reach me: sadmansirajee@gmail.com 
+# 💻 Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sadman-sirajee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sadman-sirajee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sadman-sirajee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sadman-sirajee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sadman-datascience)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sadman-sirajee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sadman-datascience)](https://github.com/ryo-ma/github-profile-trophy)
+---
+[![](https://komarev.com/ghpvc/?username=sadman-sirajee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadman-datascience)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadman-datascience&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sadman-datascience/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Sadman-datascience)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sadman-datascience)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
